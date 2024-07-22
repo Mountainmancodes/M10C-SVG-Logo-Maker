@@ -25,8 +25,13 @@ node index.js
 
 ## Example
 
+**Command-Line Questions:**
 ![Example](./examples/svg%20questions.png)
+
+**CIRCLE SVG:**
 ![Example](./examples/circle%20image.png)
+
+**DEMO:**
 [Demo](https://drive.google.com/file/d/1VGp8Kb-qp_CVmRgeDR2CmBPSYLsD5_Tb/view)
 
 ## Testing
