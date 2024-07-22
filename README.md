@@ -25,9 +25,9 @@ node index.js
 
 ## Example
 
-[Example](./examples/svg%20questions.png)
-[Example](./examples/circle%20image.png)
-[Demo](https://drive.google.com/file/d/1VGp8Kb-qp_CVmRgeDR2CmBPSYLsD5_Tb/view)
+![Example](./examples/svg%20questions.png)
+![Example](./examples/circle%20image.png)
+![Demo](https://drive.google.com/file/d/1VGp8Kb-qp_CVmRgeDR2CmBPSYLsD5_Tb/view)
 
 ## Testing
 
@@ -41,4 +41,8 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 
 ## Contributors
 
-[Mountainmancodes](https://github.com/Mountainmancodes)
+- Created by [Mountainmancodes](https://github.com/Mountainmancodes)
+- Assist by  [Lixiviate](https://github.com/Lixiviate)
+- Sources:
+  - [Jest Docs](https://jestjs.io/)
+  - [Inquirer.js Docs](https://www.npmjs.com/package/inquirer/v/8.2.4)
