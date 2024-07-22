@@ -19,7 +19,7 @@ npm install
 
 ## Usage
 
-to run the application, use:
+To run the application, use:
 
 node index.js
 
@@ -36,7 +36,7 @@ node index.js
 
 ## Testing
 
-to run tests, use:
+To run tests, use:
 
 npm test
 
